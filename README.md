@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">Graduated with a degree in CompSci, love to develop mobile and web apps.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zalhashemi" alt="zalhashemi" /></a> </p>
-
 - 🔭 I’m currently working on [BookTrap](https://booktrap.app)
-
-- 📫 How to reach me **https://www.linkedin.com/in/zain-alhashemi-a09499206/**
 
 - ⚡ Fun fact **Soundtracks are the best productivity hack**
 
