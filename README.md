@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Zain, a fourth-year Computer Science student with experience in both mobile and web development.<br><br>🚀 I’m currently focusing on backend server development, honing my skills to build scalable and robust systems. Up next, I’ll be diving deeper into Python-based projects and integrating APIs to bring more dynamic functionality into my work.<br><br>💡 I’m passionate about full-stack development and excited to further explore areas like cybersecurity and AI as I continue to grow.<br><br>🎵 Fun fact: I’m a huge fan of movie soundtracks. I also love bringing elements of my personal interests into the projects I build, whether it's Formula 1, music, or productivity.
+👋 Hi there! I’m Zain, a fourth-year Computer Science student with experience in both mobile and web development.<br><br>🚀 I’m currently focusing on building mobile and web applications that tend to solve my day-to-day problems, combining my interests with innovative solutions.<br><br>💡 I’m passionate about full-stack development and excited to further explore areas like cybersecurity and AI as I continue to grow.<br><br>🎵 Fun fact: I’m a huge fan of movie soundtracks. I also love bringing elements of my personal interests into the projects I build, whether it's Formula 1, music, or productivity.
 
 
 ## 🌐 Socials:
